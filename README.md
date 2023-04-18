@@ -13,7 +13,7 @@ npm install -g random-str-msg-sheep
 # Usage
 
 ```bash
- random-str-msg
+ random-str-msg-sheep
 ```
 
 # Contributing
