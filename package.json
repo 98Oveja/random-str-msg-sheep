@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-sheep",
+  "version": "1.0.0",
+  "description": "Radom string messages by sheep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/98Oveja/random-str-msg-sheep.git"
+  },
+  "keywords": [],
+  "author": "Obed Tzay <ovejatzaypuac03@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/98Oveja/random-str-msg-sheep/issues"
+  },
+  "homepage": "https://github.com/98Oveja/random-str-msg-sheep#readme",
+  "bin":{
+    "random-str-msg-sheep": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
